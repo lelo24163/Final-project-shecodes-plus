@@ -1,10 +1,10 @@
 body {
-    background-color:pink;
+    background-color:purple;
     font-family: "Roboto", sans-serif;
     }
 
     .weather-app {
-      background: blue;
+      background: pink;
       max-width: 600px;
       margin: 45px auto;
       box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
@@ -17,7 +17,7 @@ header{
   padding: 0 0 30px 0; 
 }
 .search-form-input {
-    background-color: red;
+    background-color: white;
     border: none;
     border-radius: 5px;
     width: 80%;
